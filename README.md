@@ -28,3 +28,7 @@ web learning checklist
 ## 13 单元测试
 
 ## 14 babel
+
+## 15 nginx
+
+
